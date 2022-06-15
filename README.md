@@ -1,2 +1,3 @@
-# ohmycto
-오나의cto님
+# devdown
+
+개발자 커뮤니티
